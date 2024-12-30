@@ -15,6 +15,7 @@ A structured SQL database named `work` was created in SQL Server Studio, incorpo
 - Absenteeism Data ([Absenteeism_at_work.csv](https://github.com/ndomah/HR-Analytics-Absenteeism-Analysis-and-Dashboard/blob/main/Absenteeism_at_work.csv))
 - Reasons for Absence ([Reasons.csv](https://github.com/ndomah/HR-Analytics-Absenteeism-Analysis-and-Dashboard/blob/main/Reasons.csv))
 - Compensation Data ([Compensation.csv](https://github.com/ndomah/HR-Analytics-Absenteeism-Analysis-and-Dashboard/blob/main/compensation.csv))
+
 SQL queries joined and optimized tables for efficient data import into Power BI.
 ### 2. Key Calculations and Metrics
 - **Main KPIs**:
@@ -31,6 +32,7 @@ Efficient SQL queries enabled:
 - Joining datasets with `LEFT JOIN` and subqueries.
 - Categorizing employees based on BMI, smoking habits, and absenteeism.
 - Filtering data for visualization-ready output.
+  
 File: [HR Analytics.sql](https://github.com/ndomah/HR-Analytics-Absenteeism-Analysis-and-Dashboard/blob/main/HR%20Analtyics.sql)
 ### 4. Wireframe and Design
 The dashboard's layout aligns with the provided wireframe:
@@ -44,6 +46,7 @@ The dashboard's layout aligns with the provided wireframe:
   - Professional dark theme with icons for clarity.
   - Interactive filters for real-time updates.
   - Export-ready format for stakeholder presentations.
+    
 File: [Wireframe.png](https://github.com/ndomah/HR-Analytics-Absenteeism-Analysis-and-Dashboard/blob/main/Wireframe.png)
 ### 5. Power BI Dashboard
 An interactive dashboard, adhering to the wireframe design, was developed with features including:
@@ -57,6 +60,7 @@ An interactive dashboard, adhering to the wireframe design, was developed with f
 - **Detailed Visualizations**:
   - Pie charts for demographic insights.
   - Scatter plots for correlations (e.g., transportation expense vs. workload).
+    
 File: [HR Analytics Dashboard.pbix](https://github.com/ndomah/HR-Analytics-Absenteeism-Analysis-and-Dashboard/blob/main/HR%20Analytics%20Dashboard.pbix)
 ## Final Dashboard Features
 - **Interactive Visualizations**:
@@ -69,6 +73,7 @@ File: [HR Analytics Dashboard.pbix](https://github.com/ndomah/HR-Analytics-Absen
   - Dynamic narratives for stakeholder engagement.
   - Placeholder areas for additional metrics.
 ![dashboard image](https://github.com/ndomah/HR-Analytics-Absenteeism-Analysis-and-Dashboard/blob/main/HR%20Analytics%20Dashboard.png)
+
 File: [HR Analytics Dashboard.pbix](https://github.com/ndomah/HR-Analytics-Absenteeism-Analysis-and-Dashboard/blob/main/HR%20Analytics%20Dashboard.pbix)
 ## Repository Contents
 - [Absenteeism_at_work.csv](https://github.com/ndomah/HR-Analytics-Absenteeism-Analysis-and-Dashboard/blob/main/Absenteeism_at_work.csv): Raw absenteeism data.
