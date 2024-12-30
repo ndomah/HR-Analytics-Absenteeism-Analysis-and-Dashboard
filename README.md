@@ -72,6 +72,7 @@ File: [HR Analytics Dashboard.pbix](https://github.com/ndomah/HR-Analytics-Absen
 - **Customization**:
   - Dynamic narratives for stakeholder engagement.
   - Placeholder areas for additional metrics.
+
 ![dashboard image](https://github.com/ndomah/HR-Analytics-Absenteeism-Analysis-and-Dashboard/blob/main/HR%20Analytics%20Dashboard.png)
 
 File: [HR Analytics Dashboard.pbix](https://github.com/ndomah/HR-Analytics-Absenteeism-Analysis-and-Dashboard/blob/main/HR%20Analytics%20Dashboard.pbix)
